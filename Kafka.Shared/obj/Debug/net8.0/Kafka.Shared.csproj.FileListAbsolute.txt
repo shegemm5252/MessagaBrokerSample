@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\bin\Debug\net8.0\Kafka.Shared.deps.json
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\bin\Debug\net8.0\Kafka.Shared.dll
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\bin\Debug\net8.0\Kafka.Shared.pdb
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\Kafka.Shared.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\Kafka.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\Kafka.Shared.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\Kafka.Shared.AssemblyInfo.cs
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\Kafka.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\Kafka.Shared.dll
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\refint\Kafka.Shared.dll
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\Kafka.Shared.pdb
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\ref\Kafka.Shared.dll
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\bin\Debug\net8.0\KafkaLibrary.dll
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\bin\Debug\net8.0\KafkaLibrary.pdb
+C:\Users\Hp\source\repos\kafkaProducerTest\Kafka.Shared\obj\Debug\net8.0\Kafka.Shared.csproj.CopyComplete
