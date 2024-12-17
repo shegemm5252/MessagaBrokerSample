@@ -1,18 +1,17 @@
 ﻿using KafkaLibrary;
-using KafkaLibrary.Consumer;
+using KafkaLibrary.Consumer; 
+using KafkaLibrary.Interface;
 using KafkaLibrary.KafkaProducer;
-using Microsoft.Extensions.Configuration;
 
 namespace Kafka.Shared
 {
     public class Consumer : ConsumerBase
     {
     
-        public Consumer(KafkaConfig configuration, IMessageProducers producers) : base("testKafka", configuration)
-        {
+        public Consumer(KafkaConfig configuration, IMessageProducers producers, IMessageAdmin messageAdmin) : base("test1", configuration, messageAdmin)
+        {  
 
         }
-
 
         public override async Task Invoke()
         {

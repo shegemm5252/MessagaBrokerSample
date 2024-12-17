@@ -23,7 +23,9 @@ var msg = Console.ReadLine();
 
 while (msg != null)
 {
-    var producer = messageProducers.ProduceAsync<string>("testTopic", msg).ConfigureAwait(false);
+    Console.WriteLine("Supply topic");
+    var topic = Console.ReadLine(); 
+    var producer = messageProducers.ProduceAsync<string>(topic, msg).ConfigureAwait(false);
     msg = Console.ReadLine();
 }
 

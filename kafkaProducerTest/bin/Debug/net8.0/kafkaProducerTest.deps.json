@@ -332,7 +332,10 @@
           "Microsoft.Extensions.DependencyInjection": "8.0.0"
         },
         "runtime": {
-          "Kafka.Shared.dll": {}
+          "Kafka.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "KafkaLibrary/1.0.1.0": {
