@@ -17,7 +17,7 @@
           "Microsoft.Extensions.Logging.Abstractions": "8.0.1",
           "Microsoft.Extensions.Options": "8.0.2",
           "Newtonsoft.Json": "13.0.3",
-          "KafkaLibrary": "1.0.2.0"
+          "KafkaLibrary": "1.0.3.0"
         },
         "runtime": {
           "KafkaConsumerTest.dll": {}
@@ -338,11 +338,11 @@
           }
         }
       },
-      "KafkaLibrary/1.0.2.0": {
+      "KafkaLibrary/1.0.3.0": {
         "runtime": {
           "KafkaLibrary.dll": {
-            "assemblyVersion": "1.0.2.0",
-            "fileVersion": "1.0.2.0"
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
           }
         }
       }
@@ -492,7 +492,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "KafkaLibrary/1.0.2.0": {
+    "KafkaLibrary/1.0.3.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

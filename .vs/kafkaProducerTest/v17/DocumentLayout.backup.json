@@ -3,31 +3,37 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A45C336-C8A5-42ED-9CB7-AA3F830406B5}|KafkaConsumerTest\\KafkaConsumerTest.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafkaconsumertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A45C336-C8A5-42ED-9CB7-AA3F830406B5}|KafkaConsumerTest\\KafkaConsumerTest.csproj|solutionrelative:kafkaconsumertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BA4BE97-5368-46DC-88DC-C488F3F71E87}|Kafka.Shared\\Kafka.Shared.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafka.shared\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA4BE97-5368-46DC-88DC-C488F3F71E87}|Kafka.Shared\\Kafka.Shared.csproj|solutionrelative:kafka.shared\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BA4BE97-5368-46DC-88DC-C488F3F71E87}|Kafka.Shared\\Kafka.Shared.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafka.shared\\consumer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA4BE97-5368-46DC-88DC-C488F3F71E87}|Kafka.Shared\\Kafka.Shared.csproj|solutionrelative:kafka.shared\\consumer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E1AD2D3-B007-4D97-B36C-B0315B63D4A1}|kafkaProducerTest\\kafkaProducerTest.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafkaproducertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1AD2D3-B007-4D97-B36C-B0315B63D4A1}|kafkaProducerTest\\kafkaProducerTest.csproj|solutionrelative:kafkaproducertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1AD2D3-B007-4D97-B36C-B0315B63D4A1}|kafkaProducerTest\\kafkaProducerTest.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafkaproducertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E1AD2D3-B007-4D97-B36C-B0315B63D4A1}|kafkaProducerTest\\kafkaProducerTest.csproj|solutionrelative:kafkaproducertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A45C336-C8A5-42ED-9CB7-AA3F830406B5}|KafkaConsumerTest\\KafkaConsumerTest.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafkaconsumertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7A45C336-C8A5-42ED-9CB7-AA3F830406B5}|KafkaConsumerTest\\KafkaConsumerTest.csproj|solutionrelative:kafkaconsumertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\Consumer\\ConsumerBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1AD2D3-B007-4D97-B36C-B0315B63D4A1}|kafkaProducerTest\\kafkaProducerTest.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafkaproducertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1AD2D3-B007-4D97-B36C-B0315B63D4A1}|kafkaProducerTest\\kafkaProducerTest.csproj|solutionrelative:kafkaproducertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1AD2D3-B007-4D97-B36C-B0315B63D4A1}|kafkaProducerTest\\kafkaProducerTest.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafkaproducertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6E1AD2D3-B007-4D97-B36C-B0315B63D4A1}|kafkaProducerTest\\kafkaProducerTest.csproj|solutionrelative:kafkaproducertest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5BA4BE97-5368-46DC-88DC-C488F3F71E87}|Kafka.Shared\\Kafka.Shared.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafka.shared\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA4BE97-5368-46DC-88DC-C488F3F71E87}|Kafka.Shared\\Kafka.Shared.csproj|solutionrelative:kafka.shared\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\ConfigureService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA4BE97-5368-46DC-88DC-C488F3F71E87}|Kafka.Shared\\Kafka.Shared.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafka.shared\\consumer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA4BE97-5368-46DC-88DC-C488F3F71E87}|Kafka.Shared\\Kafka.Shared.csproj|solutionrelative:kafka.shared\\consumer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\KafkaConfigBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A45C336-C8A5-42ED-9CB7-AA3F830406B5}|KafkaConsumerTest\\KafkaConsumerTest.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\kafkaconsumertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A45C336-C8A5-42ED-9CB7-AA3F830406B5}|KafkaConsumerTest\\KafkaConsumerTest.csproj|solutionrelative:kafkaconsumertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\Consumer\\ConsumerBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB491AB9-C009-4C58-8A7C-1354AFDBE046}|WebTestClient\\WebTestClient.csproj|c:\\users\\hp\\source\\repos\\kafkaproducertest\\webtestclient\\communicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -165,7 +171,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -185,33 +191,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "ConfigureService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\ConfigureService.cs",
+              "RelativeDocumentMoniker": "..\\KafkaLibraryUpdate\\KafkaLibrary\\ConfigureService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\ConfigureService.cs",
+              "RelativeToolTip": "..\\KafkaLibraryUpdate\\KafkaLibrary\\ConfigureService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:05:38.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaConfigBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\KafkaConfigBuilder.cs",
+              "RelativeDocumentMoniker": "..\\KafkaLibraryUpdate\\KafkaLibrary\\KafkaConfigBuilder.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\KafkaConfigBuilder.cs",
+              "RelativeToolTip": "..\\KafkaLibraryUpdate\\KafkaLibrary\\KafkaConfigBuilder.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:05:38.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Consumer2.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\Kafka.Shared\\Consumer2.cs",
               "RelativeDocumentMoniker": "Kafka.Shared\\Consumer2.cs",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\Kafka.Shared\\Consumer2.cs",
               "RelativeToolTip": "Kafka.Shared\\Consumer2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T04:29:37.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\Kafka.Shared\\Consumer.cs",
+              "RelativeDocumentMoniker": "Kafka.Shared\\Consumer.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\Kafka.Shared\\Consumer.cs",
+              "RelativeToolTip": "Kafka.Shared\\Consumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:02:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\appsettings.json",
+              "RelativeDocumentMoniker": "kafkaProducerTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\appsettings.json*",
+              "RelativeToolTip": "kafkaProducerTest\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T08:32:06.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaConsumerTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest\\appsettings.json",
+              "RelativeToolTip": "KafkaConsumerTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T05:43:09.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest\\Program.cs",
               "RelativeDocumentMoniker": "KafkaConsumerTest\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest\\Program.cs*",
-              "RelativeToolTip": "KafkaConsumerTest\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest\\Program.cs",
+              "RelativeToolTip": "KafkaConsumerTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T11:26:33.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\Program.cs",
+              "RelativeDocumentMoniker": "kafkaProducerTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\Program.cs",
+              "RelativeToolTip": "kafkaProducerTest\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:26:01.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestClient\\Program.cs",
               "RelativeDocumentMoniker": "WebTestClient\\Program.cs",
@@ -223,45 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest\\appsettings.json",
-              "RelativeDocumentMoniker": "KafkaConsumerTest\\appsettings.json",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest\\appsettings.json",
-              "RelativeToolTip": "KafkaConsumerTest\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-23T05:43:09.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\Program.cs",
-              "RelativeDocumentMoniker": "kafkaProducerTest\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\Program.cs",
-              "RelativeToolTip": "kafkaProducerTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T08:26:01.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Consumer.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\Kafka.Shared\\Consumer.cs",
-              "RelativeDocumentMoniker": "Kafka.Shared\\Consumer.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\Kafka.Shared\\Consumer.cs",
-              "RelativeToolTip": "Kafka.Shared\\Consumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:02:50.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ConsumerBase.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\KafkaLibraryUpdate\\KafkaLibrary\\Consumer\\ConsumerBase.cs",
               "RelativeDocumentMoniker": "..\\KafkaLibraryUpdate\\KafkaLibrary\\Consumer\\ConsumerBase.cs",
@@ -273,19 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\appsettings.json",
-              "RelativeDocumentMoniker": "kafkaProducerTest\\appsettings.json",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\appsettings.json",
-              "RelativeToolTip": "kafkaProducerTest\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-21T08:32:06.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestClient\\Message.cs",
               "RelativeDocumentMoniker": "WebTestClient\\Message.cs",
@@ -297,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CommunicationManager.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestClient\\CommunicationManager.cs",
               "RelativeDocumentMoniker": "WebTestClient\\CommunicationManager.cs",
@@ -310,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ConnectionManager.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestClient\\ConnectionManager.cs",
               "RelativeDocumentMoniker": "WebTestClient\\ConnectionManager.cs",
@@ -322,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "CommunicationManager.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketClientTest\\CommunicationManager.cs",
               "RelativeDocumentMoniker": "SocketClientTest\\CommunicationManager.cs",
@@ -334,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestServer\\Message.cs",
               "RelativeDocumentMoniker": "WebTestServer\\Message.cs",
@@ -346,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ConnectionManager.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketIOTest\\ConnectionManager.cs",
               "RelativeDocumentMoniker": "SocketIOTest\\ConnectionManager.cs",
@@ -358,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestServer\\Program.cs",
               "RelativeDocumentMoniker": "WebTestServer\\Program.cs",
@@ -370,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "CommunicationManager.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestServer\\CommunicationManager.cs",
               "RelativeDocumentMoniker": "WebTestServer\\CommunicationManager.cs",
@@ -382,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ConnectionManager.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestServer\\ConnectionManager.cs",
               "RelativeDocumentMoniker": "WebTestServer\\ConnectionManager.cs",
@@ -394,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketClientTest\\Program.cs",
               "RelativeDocumentMoniker": "SocketClientTest\\Program.cs",
@@ -406,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "WebTestServer.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestServer\\WebTestServer.csproj",
               "RelativeDocumentMoniker": "WebTestServer\\WebTestServer.csproj",
@@ -418,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "WebTestClient.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\WebTestClient\\WebTestClient.csproj",
               "RelativeDocumentMoniker": "WebTestClient\\WebTestClient.csproj",
@@ -430,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "CommunicationManager.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketIOTest\\CommunicationManager.cs",
               "RelativeDocumentMoniker": "SocketIOTest\\CommunicationManager.cs",
@@ -442,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "SocketServerTest.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketIOTest\\SocketServerTest.csproj",
               "RelativeDocumentMoniker": "SocketIOTest\\SocketServerTest.csproj",
@@ -454,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "SocketClientTest.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketClientTest\\SocketClientTest.csproj",
               "RelativeDocumentMoniker": "SocketClientTest\\SocketClientTest.csproj",
@@ -466,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ClientManager.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketClientTest\\ClientManager.cs",
               "RelativeDocumentMoniker": "SocketClientTest\\ClientManager.cs",
@@ -478,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketIOTest\\Message.cs",
               "RelativeDocumentMoniker": "SocketIOTest\\Message.cs",
@@ -490,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketClientTest\\Message.cs",
               "RelativeDocumentMoniker": "SocketClientTest\\Message.cs",
@@ -502,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketIOTest\\Program.cs",
               "RelativeDocumentMoniker": "SocketIOTest\\Program.cs",
@@ -514,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "SocketServerTest",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketIOTest\\SocketServerTest.csproj",
               "RelativeDocumentMoniker": "SocketIOTest\\SocketServerTest.csproj",
@@ -525,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "SocketClientTest",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\SocketClientTest\\SocketClientTest.csproj",
               "RelativeDocumentMoniker": "SocketClientTest\\SocketClientTest.csproj",
@@ -536,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ThrowHelper.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\SourceServer\\9124cdf447889dd63365b61b7d34c856e7b21028e62ebd3f670b0be81186f5f7\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\9124cdf447889dd63365b61b7d34c856e7b21028e62ebd3f670b0be81186f5f7\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
@@ -548,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Socket.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\2f0377f6e1743dbb91469f7f03b877b3e24ac078122cb6c2c72e585619306f92\\Socket.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2f0377f6e1743dbb91469f7f03b877b3e24ac078122cb6c2c72e585619306f92\\Socket.cs",
@@ -560,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Microsoft.NET.Sdk.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
@@ -571,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "KafkaConsumerTest1.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest1\\KafkaConsumerTest1.csproj",
               "RelativeDocumentMoniker": "KafkaConsumerTest1\\KafkaConsumerTest1.csproj",
@@ -583,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ConfigureService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\KafkaLibrary\\KafkaLibrary\\ConfigureService.cs",
               "RelativeDocumentMoniker": "..\\KafkaLibrary\\KafkaLibrary\\ConfigureService.cs",
@@ -595,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Consumer.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest1\\Consumer.cs",
               "RelativeDocumentMoniker": "KafkaConsumerTest1\\Consumer.cs",
@@ -607,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest1\\Program.cs",
               "RelativeDocumentMoniker": "KafkaConsumerTest1\\Program.cs",
@@ -619,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "KafkaConsumerTest.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\KafkaConsumerTest\\KafkaConsumerTest.csproj",
               "RelativeDocumentMoniker": "KafkaConsumerTest\\KafkaConsumerTest.csproj",
@@ -631,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Command.txt",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\Command.txt",
               "RelativeDocumentMoniker": "Command.txt",
@@ -643,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "kafkaProducerTest.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\kafkaProducerTest\\kafkaProducerTest.csproj",
               "RelativeDocumentMoniker": "kafkaProducerTest\\kafkaProducerTest.csproj",
@@ -655,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Kafka.Shared.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\kafkaProducerTest\\Kafka.Shared\\Kafka.Shared.csproj",
               "RelativeDocumentMoniker": "Kafka.Shared\\Kafka.Shared.csproj",
